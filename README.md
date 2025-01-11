@@ -28,7 +28,7 @@ eco-conscious millennial: climate change; and Gen Z parents who prioritize adapt
 
 1. 感知问题
 
-缺乏主动视觉、精确的定位和跟踪、噪声和不确定性下的稳健性能，以及利用上下文信息来改进检测和定位。
+   缺乏主动视觉、精确的定位和跟踪、噪声和不确定性下的稳健性能，以及利用上下文信息来改进检测和定位。
 
 2. 学习问题
 
@@ -38,4 +38,4 @@ eco-conscious millennial: climate change; and Gen Z parents who prioritize adapt
 
 5. 评估系统
 
-通过一系列任务探测多种能力的测试，被建议用于评估认知架构和通用AI系统。
+   通过一系列任务探测多种能力的测试，被建议用于评估认知架构和通用AI系统。
