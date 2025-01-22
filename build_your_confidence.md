@@ -20,7 +20,8 @@ To be honest to yourself.
 - 职业与职场
 - 沟通、谈判
 - 销售的话术
-- 自媒体营销
+- 自媒体的影响力
+- small business
 
 ## The nature of human
 
