@@ -1,4 +1,4 @@
-## 完美世界 名人看世界 名人堂
+## 完美世界 名人看世界 自我管理
 
 Now this is not the end. It is not even the beginning of the end.
 
