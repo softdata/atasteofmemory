@@ -39,3 +39,30 @@ eco-conscious millennial: climate change; and Gen Z parents who prioritize adapt
 5. 评估系统
 
    通过一系列任务探测多种能力的测试，被建议用于评估认知架构和通用AI系统。
+
+## Digital Dimension 数字化维度的迅猛发展
+
+- "We have a new fourth dimension, and that is Digital."
+
+- "This is a huge new frontier that we can't understand until our intuition begins to develop and that takes time, just as it takes time to learn to read and write until we can do it unconsciously."
+
+- "Humility and a sense of inquiry is the only protection we have in exploring life enhanced, enriched and endangered by the vastly and rapidly expanding digital dimension."
+
+- "Feeling helpless, blaming others, justifying inaction, finding comfort in complaining as an alternative to acting, the silent majority is like a frog where the water is so gradually heating up that the frog does not try to jump out."
+
+- "The human factors, so long ignored because of being too complicated to do laboratory experiments with, are now being considered in digital humanism, digital health and in the building of resilient communities."
+
+- "The human factors in the social, economic and relationship ecosystems can no longer be ignored - we can see it, we can measure it, we can model it."
+
+
+
+
+
+
+
+
+
+
+
+
+
