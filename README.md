@@ -40,6 +40,21 @@ eco-conscious millennial: climate change; and Gen Z parents who prioritize adapt
 
    通过一系列任务探测多种能力的测试，被建议用于评估认知架构和通用AI系统。
 
+## The Gutenburg Galaxy:
+## The Making of Typographic Man
+
+印刷术的发展导致了民族主义、二元论、理性主义的统治、科学研究的自动化、文化的统一化和标准化
+
+
+
+## Digital Humanism
+
+People-Centered Internet
+
+"By 2035 instead of the 'home on the range' most people will be at 'home on the cloud', able to stay surrounded by familiy and friends while finding and taking on income-earning, business opportunities anywhere in the world."
+
+"Digital humanism driven by love of people and planet is urgently needed as a counterweight to what will otherwise be an inevitable digital colonization driven by profit."
+
 ## Digital Dimension 数字化维度的迅猛发展
 
 - "We have a new fourth dimension, and that is Digital."
