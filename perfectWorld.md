@@ -25,6 +25,9 @@ But it is, perhaps, the end of the beginning.
 - 乔希 维茨金 Josh Waitzkin
 - 赫尔曼 黑塞 Hermann Hesse
 -  阿兰 图灵 Alan Turing
+- 周志华 机器学习
+
+
 
 2. Build your credit
 
