@@ -30,6 +30,14 @@ Computing Machine 最广泛程度地吸收有价值的关联线索（学习加�
 
 Streamling Workflows 简化工作流程
 
+ ## Reading 简单易行
+
+- 阅读是简单的思维训练方式
+
+- 阅读和跑步是简单易行、可以长期坚持的个人习惯。
+
+ 
+
 
 
 
