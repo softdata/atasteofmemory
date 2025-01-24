@@ -64,7 +64,20 @@ People-Centered Internet
 
 "Digital humanism driven by love of people and planet is urgently needed as a counterweight to what will otherwise be an inevitable digital colonization driven by profit."
 
-## Digital Dimension 数字化维度的迅猛发展
+## Digital Dimension
+
+Believe that 我们正处在一个伟大变革的时代
+
+数字化维度，迅猛发展
+
+前有大航海时代（15-17世纪），未来有星际文明，而现代文明介于两者之间。
+
+The age of discovery,
+The age of exploration,
+extensive maritime exploration,
+leading to the establishment of global connections.
+
+Physical spaces and virtual spaces will be seamlessly integrated.
 
 - "We have a new fourth dimension, and that is Digital."
 
