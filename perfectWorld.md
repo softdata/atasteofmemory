@@ -33,12 +33,17 @@ But it is, perhaps, the end of the beginning.
 - 保罗 格雷厄姆 Paul Graham
 - 乔治 索罗斯 George Soros
 - 孙正义 Masayoshi Son
+- 徐小平 真格基金(2011)
+
 
 3. Individual empowerment
 
 - 通往奴役之路 The Road to Serfdom, 哈耶克
 - 鲁滨逊漂流记 Robinson Crusoe, 笛福
 - 基业长青 Built to Last, J.柯林斯 & J.波勒斯
+- 唤醒心中的巨人 Awaken the Giant Within 罗宾斯
+
+
 
    
   
