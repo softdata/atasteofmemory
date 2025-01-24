@@ -40,8 +40,17 @@ eco-conscious millennial: climate change; and Gen Z parents who prioritize adapt
 
    通过一系列任务探测多种能力的测试，被建议用于评估认知架构和通用AI系统。
 
-## The Gutenburg Galaxy:
-## The Making of Typographic Man
+## 课题组：网络与媒体
+
+- Neuroscience
+- Media
+- Digital Dimension, Digital Humanism
+
+[The neuroscience of emotion: A new synthesis](https://psycnet.apa.org/record/2018-01501-000)
+
+
+[The Gutenberg Galaxy:
+The Making of Typographic Man](https://www.goodreads.com/book/show/440463.The_Gutenberg_Galaxy)
 
 印刷术的发展导致了民族主义、二元论、理性主义的统治、科学研究的自动化、文化的统一化和标准化
 
