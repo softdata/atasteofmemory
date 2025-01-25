@@ -68,11 +68,14 @@ People-Centered Internet
 
 Believe that 我们正处在一个伟大变革的时代
 
+Get ready to 文明跃迁
+
 数字化维度，迅猛发展
 
 前有大航海时代（15-17世纪），未来有星际文明，而现代文明介于两者之间。
 
-The age of discovery,
+The age of discovery
+
 The age of exploration,
 extensive maritime exploration,
 leading to the establishment of global connections.
