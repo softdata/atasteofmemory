@@ -40,7 +40,7 @@ University毕业后18年
 
 也是世界在你眼里的景象。
 
-## 发明：发明的方法
+## 发明：发明的方法（学习加速度）
 
 数字人 augmented technologies
 
@@ -49,6 +49,8 @@ University毕业后18年
 - neuroscience
 - media
 - digital humanism, digital dimension
+
+技术融合，多学科融合，digital dimension 迅猛发展
 
 Physical spaces and virtual spaces will be seamless integrated.
 
