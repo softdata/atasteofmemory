@@ -44,6 +44,11 @@ University毕业后18年
 
 ## 发明：发明的方法（学习加速度）
 
+1. 提问题
+
+2. 应用 implement integrate Emerging Technologies, application
+
+
 数字人 augmented technologies
 
 配置开发环境 Lab，虚拟工作空间 Workspace
