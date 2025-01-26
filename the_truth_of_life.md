@@ -63,7 +63,7 @@ Physical spaces and virtual spaces will be seamless integrated.
 
 习惯使用Lab和Workspace，成为工具人。此工具人非彼“工具人”。
 
-## 跳跃的思维
+## 跳跃的思维方式 研究型人格 网状思维模型
 
 常见做法：陈述观点、事实，或者结合分析得出判断的过程中，却要反问其用意，the key point 关键信息，
 然后以转述的方式表达本人意图，强调其观点以令旁人信服。
