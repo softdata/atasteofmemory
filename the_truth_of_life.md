@@ -4,6 +4,12 @@ College毕业后20年
 
 University毕业后18年
 
+- 2005年，和讯博客(网络新兵)
+
+- 2015年，Github（创业创新）
+
+- 2025年，Github（数字人）
+
 1. 天生我材必有用
 
 2. 开辟新赛道
@@ -31,6 +37,30 @@ University毕业后18年
 最终呈现出当今世界的模样，
 
 也是世界在你眼里的景象。
+
+## 发明：发明的方法
+
+数字人 augmented technologies
+
+配置开发环境 Lab，虚拟工作空间 Workspace
+
+- neuroscience
+- media
+- digital humanism, digital dimension
+
+Physical spaces and virtual spaces will be seamless integrated.
+
+习惯使用Lab和Workspace，成为工具人。此工具人非彼“工具人”。
+
+
+
+
+
+
+
+
+
+
 
 
 
