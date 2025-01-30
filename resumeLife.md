@@ -1,6 +1,6 @@
 ## 1. Resume Life 重启人生
 
-与过去的经历切割，开启另一版本的人生Scholar
+**Turning Point** 开启另一版本的人生**Scholar**
 - MBA Track 信息技术与管理学
 - Marketing Management 营销管理
 - Strategic marketing management
