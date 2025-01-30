@@ -26,7 +26,7 @@ But it is, perhaps, the end of the beginning.
 - 赫尔曼 黑塞 Hermann Hesse
 -  阿兰 图灵 Alan Turing
 - 周志华 机器学习
-- 马歇尔 麦克卢汉 Marshall McLuhan
+
 
 
 2. Build your credit
@@ -47,9 +47,14 @@ But it is, perhaps, the end of the beginning.
 - 唤醒心中的巨人 Awaken the Giant Within 罗宾斯
 
 
+## Marshall McLuhan: Understanding Media
 
+[McLuhan and the theory of communication](https://noemalab.eu/ideas/mcluhan-and-the-theory-of-communication/)
    
-  
+According to McLuhan, the media change our conception of space and time. Suffice it to remember his claim that "the globe is no more than a village". Social space and time are defined in terms of information.
+As a consequence, according to this principle, we can explore the implicaton of new technologies in shaping in interpersonal relationships.
+McLuhan mentions "the rise of the idea of transportation as communication and then the transition of the idea from transport to information by means of electricity".
+The cryptic claims that "the electric light is pure information" should become more understandable: what electric light does is to create a new social space in which people can interact and which was not previously available - for instance by lighting a square, a room or a stadium, not to mention other uses of electricity. 
 
 
 
