@@ -1,6 +1,9 @@
 ## 1. Resume Life 重启人生
 
-与过去的经历切割，开启另一版本的人生Scholar-MBA
+与过去的经历切割，开启另一版本的人生Scholar
+- MBA Track 信息技术与管理学
+- Marketing Management
+- Strategic marketing management
 
 ## 2. Be Honest to Yourself 个人追求
 
