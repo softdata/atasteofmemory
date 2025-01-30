@@ -26,7 +26,7 @@ But it is, perhaps, the end of the beginning.
 - 赫尔曼 黑塞 Hermann Hesse
 -  阿兰 图灵 Alan Turing
 - 周志华 机器学习
-
+- 马歇尔 麦克卢汉 Marshall McLuhan
 
 
 2. Build your credit
