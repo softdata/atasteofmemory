@@ -89,13 +89,13 @@ leading to the establishment of global connections.
 ---
 Physical spaces and virtual spaces will be seamlessly integrated.
 
-```"We have a new fourth dimension, and that is Digital."```
+- ```"We have a new fourth dimension, and that is Digital."```
 
 - "This is a huge new frontier that we can't understand until our intuition begins to develop and that takes time, just as it takes time to learn to read and write until we can do it unconsciously."
 
 - "Humility and a sense of inquiry is the only protection we have in exploring life enhanced, enriched and endangered by the vastly and rapidly expanding digital dimension."
 
-```"Feeling helpless, blaming others, justifying inaction, finding comfort in complaining as an alternative to acting, the silent majority is like a frog where the water is so gradually heating up that the frog does not try to jump out."```
+- ```"Feeling helpless, blaming others, justifying inaction, finding comfort in complaining as an alternative to acting, the silent majority is like a frog where the water is so gradually heating up that the frog does not try to jump out."```
 
 - "The human factors, so long ignored because of being too complicated to do laboratory experiments with, are now being considered in digital humanism, digital health and in the building of resilient communities."
 
