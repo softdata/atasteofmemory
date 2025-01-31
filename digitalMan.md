@@ -1,4 +1,4 @@
-## Digital Man 数字人
+## Digital Man 数字人 工具人
 
 - 领导力和服从
 
