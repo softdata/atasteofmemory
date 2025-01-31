@@ -79,6 +79,12 @@ Physical spaces and virtual spaces will be seamless integrated.
 时间管理就是优先级管理，在开始工作之前，积极加入一系列待处理的事务，进入事务对列。
 这样，紧张的日常在合理计划安排下，达到井然有序的工作平衡。
 
+## 不走寻常路 破坏性技术 颠覆性想法
+
+- 叱咤风云
+- 玉树临风
+
+
 
 
 
