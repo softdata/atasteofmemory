@@ -1,7 +1,7 @@
 
 ## Iron Man or Tough Man
 
-**黄金职业：**
+**黄金职业：** The Extensions of Man
 - 记者：启迪民智
 - 专家、学者：感知的力量
 - 演员：自我实现
@@ -12,7 +12,7 @@ Transform - Tony Stark的境遇
 
 Catalyst - 蜕变
 
-**顽强的生命力：** 意念 动力装置 螺旋桨 **driven force**
+**顽强的生命力：** 意念 动力装置 螺旋桨 **Driven Force**
 
 - 颠覆性想法
 - 破坏性创新
