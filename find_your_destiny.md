@@ -12,11 +12,11 @@ Transform - Tony Stark的境遇
 
 Catalyst - 蜕变
 
-意念 动力装置 螺旋桨 **driven force**
+**顽强的生命力：** 意念 动力装置 螺旋桨 **driven force**
 
 - 颠覆性想法
 - 破坏性创新
 
-开辟新赛道
+**开辟新赛道**
 - 洛奇访谈
 - 美国征兵流程
