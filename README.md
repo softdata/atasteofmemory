@@ -62,6 +62,9 @@ The Making of Typographic Man](https://www.goodreads.com/book/show/440463.The_Gu
 
 印刷术的发展导致了民族主义、二元论、理性主义的统治、科学研究的自动化、文化的统一化和标准化
 
+[通用人工智能的火花](https://orangeai.substack.com/p/gpt-4)
+
+
 
 
 ## Digital Humanism
