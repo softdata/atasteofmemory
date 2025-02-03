@@ -33,7 +33,7 @@ Fluctuating 生存状态
 
 Prioritize adaptability 适应动态变化的、变革的时代
 
-**changemaker** Adventure Explore
+**changemaker** Adventure - Discover - Explore
 
 不安于现状，小心对待惰性、放纵、一切消极心理的操控
 
