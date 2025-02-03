@@ -29,7 +29,7 @@
 
 最好的时代，最坏的时代
 
-Fluctuating 生存状态
+Fluctuating 生存状态 时代变迁
 
 Prioritize adaptability 适应动态变化的、变革的时代
 
