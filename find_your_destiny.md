@@ -8,6 +8,8 @@
 - 业务员：自我管理
 - 经理人：设计和操纵
 
+**运营官 架构师 经理人**
+
 Transform - Tony Stark的境遇
 
 Catalyst - 蜕变
