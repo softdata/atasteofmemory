@@ -26,6 +26,7 @@ But it is, perhaps, the end of the beginning.
 - 赫尔曼·黑塞 Hermann Hesse
 -  阿兰·图灵 Alan Turing
 - 周志华 机器学习
+- 拉尔夫·爱默生 Ralph Emerson
 
 
 
@@ -37,7 +38,7 @@ But it is, perhaps, the end of the beginning.
 - 乔治·索罗斯 George Soros
 - 孙正义 Masayoshi Son
 - 徐小平 真格基金(2011)
-
+- 段永平 雪球(2020)
 
 3. Individual empowerment
 
