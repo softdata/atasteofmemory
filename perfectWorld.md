@@ -4,7 +4,7 @@ Now this is not the end. It is not even the beginning of the end.
 
 But it is, perhaps, the end of the beginning.
 
-温斯顿 丘吉尔 (winston Churchill)
+温斯顿·丘吉尔 (Winston Churchill)
 
 这不是终点，甚至不是终点的起点，但可能是起点的终点。
 
