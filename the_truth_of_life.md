@@ -20,7 +20,49 @@ University毕业后18年
 
 ## 假想敌的变化
 
-从昔日的竞争对象：生于80年代相近的10年(70-90年代)，转变为Computing Machine
+**人工智能发展简史：[AI Timeline](https://www.aminer.cn/ai-history)**
+
+- 20世纪50年代
+
+  * 1950年：克劳德·香农（Claude Shannon）在 1950 年提出计算机博弈
+    
+  * 1954年：艾伦·麦席森·图灵（Alan Mathison Turing）在 1954 年提出“图灵测试”
+    
+  * 1956年：达特茅斯学院人工智能研讨会，John McCarthy, Marvin Minsky, Nathaniel Rochester, 以及Claude Shannon等人正式提出“人工智能”这一概念
+    
+  * 1957年：Rosenblatt Frank提出感知机算法Perceptron，这不仅开启了机器学习的浪潮，也成为后来神经网络的基础
+ 
+- 20世纪60年代：第一次人工智能浪潮
+  
+  * 1961年：Leonard Merrick Uhr 和 Charles M Vossler发表了题目为A Pattern Recognition Program That Generates, Evaluates and Adjusts its Own Operators 的模式识别论文
+    
+  * 1966年：Joseph Weizenbaum 在 ACM 上发表了题为《 ELIZA，一个研究人机自然语言交流的计算机程序》（ELIZA-a computer program for the study of natural language communication between man and machine
+    
+  * 1968年：爱德华·费根鲍姆（Edward Feigenbaum）提出首个专家系统DENDRAL，并对知识库给出了初步的定义，这也孕育了后来的第二次人工智能浪潮
+    
+- 20世纪70年代末-80年代初：第二次人工智能浪潮
+  
+  * 1975年：马文·明斯基(Marvin Minsky)在论文《知识表示的框架》(A Framework for Representing Knowledge)中提出框架理论，用于人工智能中的“知识表示”
+    
+  * 1976年：Randall Davis发表文章 Applications of Meta Level Knowledge to the Construction, Maintenance and Use of Large Knowledge Bases，此文提出：使用集成的面向对象模型是提高知识库（KB）开发、维护和使用的完整性的解决方案
+    
+  * 1982年：David Marr发表代表作《视觉计算理论》，他的工作同时对认知科学（CognitiveScience）也产生了很深远的影响
+    
+  * 1985年：朱迪亚·珀尔(Judea Pearl)，以色列裔美国计算机科学家和哲学家，以倡导人工智能的概率方法和发展贝叶斯网络而闻名，它是一种模拟人类推理过程中因果关系的不确定性处理模型，其网络拓朴结构是一个有向无环图(DAG)。
+    
+  * 1986年：Brooks发表论文《移动机器人鲁棒分层控制系统》，标志着基于行为的机器人学的创立。文章介绍了一种新的移动机器人控制体系结构。
+ 
+- 20世纪90年代
+
+  * 1995年：Cortes和Vapnik首次提出支持向量机(Support Vector Machine)的概念，它在解决小样本、非线性及高维模式识别中表现出许多特有的优势，并能够推广应用到函数拟合等其他机器学习问题中。
+    
+  * 2001年：ohn Lafferty于2001年首次提出条件随机场模型，它是基于贝叶斯理论框架的判别式概率图模型，当时用于文本的分割和标注，同时在许多自然语言处理任务中比如分词、命名实体识别等表现尤为出色。
+ 
+- 2006年以后：第三次人工智能浪潮
+
+  * 2006年：杰弗里 ·辛顿以及他的学生鲁斯兰·萨拉赫丁诺夫正式提出了深度学习的概念。杰弗里 ·辛顿也因此被称为深度学习之父
+
+昔日的竞争对象：从早于Z时代(1995-2009)的社会职场人，转变为Computing Machine
 
 从宇宙纪元时代的混沌世界，
 
