@@ -24,10 +24,10 @@ But it is, perhaps, the end of the beginning.
 - 温斯顿·丘吉尔 Winston Churchill
 - 乔希·维茨金 Josh Waitzkin
 - 赫尔曼·黑塞 Hermann Hesse
--  阿兰·图灵 Alan Turing
+- 阿兰·图灵 Alan Turing
 - 周志华 机器学习
 - 拉尔夫·爱默生 Ralph Emerson
-
+- 吴恩达 Andrew Ng
 
 
 2. Build your credit
