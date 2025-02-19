@@ -86,10 +86,11 @@ University毕业后18年
 
 ## 发明：发明的方法（学习加速度）
 
-1. 提问题
+💡 提问题
 
-2. 应用 implement integrate Emerging Technologies, application
+💡 应用 implementation, integrated Emerging Technologies, application
 
+💡 阅读论文 research paper
 
 数字人 augmented technologies
 
